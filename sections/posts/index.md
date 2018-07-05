@@ -9,7 +9,7 @@ To create a new post:
     c. Alternatively, after clicking on **Posts**, you can click on the **Add New** button that appears near the top of the page.
 
 
-![New post page](creating-a-new-post.jpg)
+![New post page](creating-a-new-post.png)
 
 
 ## Specific Topics
