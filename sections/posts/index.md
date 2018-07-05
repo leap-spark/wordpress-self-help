@@ -4,9 +4,9 @@ To create a new post:
 
 1. Log into WordPress
 2. There are a few ways you add a new post...
-    a. Hover your mouse over **Posts** and then click **Add New**
-    b. Click on **Posts**. Then under the new sub-nav that appears under Posts, click **Add New**.
-    c. Alternatively, after clicking on **Posts**, you can click on the **Add New** button that appears near the top of the page.
+    - Hover your mouse over **Posts** and then click **Add New**
+    - Click on **Posts**. Then under the new sub-nav that appears under Posts, click **Add New**.
+    - Alternatively, after clicking on **Posts**, you can click on the **Add New** button that appears near the top of the page.
 
 
 ![New post page](creating-a-new-post.png)
