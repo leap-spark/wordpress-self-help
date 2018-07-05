@@ -2,11 +2,11 @@
 
 ### Beginner
 
-- [Creating Posts](sections/posts/index.md)
-- [Creating Pages]()
-- [Editing Menus]()
-- [Uploading Media (images, PDFs)]()
-- [Update My User Profile]()
+- [Posts](sections/posts/index.md)
+- [Pages]()
+- [Menus]()
+- [Media (images, PDFs)]()
+- [Update 'My User' Profile]()
 - [Update Site/Blog Settings]()
 
 

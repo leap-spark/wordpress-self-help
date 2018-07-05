@@ -1,4 +1,22 @@
-# Creating Posts
+# Posts
+
+Posts are a generalized type of content that are designed out of the box to serve as blog post entries. Depending on the theme however, these can also serve as content types for other things such as real estate listings, employees, etc.
+
+
+## Specific Topics
+
+- [Creating Posts](#creatingPosts)
+- [Filling in Fields](#fillingFields)
+- [Choosing a Format](#choosingFormat)
+- [Specifying Categories](#specifyingCategories)
+- [Creating Tags](#creatingTags)
+- [Setting a Featured Image](#featuredImage)
+- [Password Protection](#passwordProtect)
+- [Changing the Author](#changeAuthor)
+- [Previewing Changes](#previewingChange)
+
+
+### <a name="creatingPosts"></a> Creating Posts
 
 To create a new post:
 
@@ -10,18 +28,6 @@ To create a new post:
 
 
 ![New post page](creating-a-new-post.png)
-
-
-## Specific Topics
-
-- [Filling in Fields](#fillingFields)
-- [Choosing a Format](#choosingFormat)
-- [Specifying Categories](#specifyingCategories)
-- [Creating Tags](#creatingTags)
-- [Setting a Featured Image](#featuredImage)
-- [Password Protection](#passwordProtect)
-- [Changing the Author](#changeAuthor)
-- [Previewing Changes](#previewingChange)
 
 
 ### <a name="fillingFields"></a>  Filling in the Fields
