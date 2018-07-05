@@ -1,10 +1,8 @@
 # WordPress Reference and Self-Help
 
-[Clearing Caches](https://blog.hubspot.com/marketing/clear-cache-cookies-history)
+### Beginner
 
-### Beginner Tutorials
-
-- [Creating Posts]()
+- [Creating Posts](sections/posts/index.md)
 - [Creating Pages]()
 - [Editing Menus]()
 - [Uploading Media (images, PDFs)]()
@@ -12,17 +10,24 @@
 - [Update Site/Blog Settings]()
 
 
-### Intermediate Tutorials
+### Intermediate
 
 - [Managing Post Categories]()
 - [Managing Post Tags]()
 - [Restoring a Post/Page Revision]()
-- [Password Protect a Post/Page]()
 - [Installing a Plugin]()
 - [Managing Plugins]()
 - [Setting up Two Factor Authentication]()
 - [Managing Users]()
 
 
-### Advanced Tutorials
+### Advanced
 
+- [Advanced Custom Fields]()
+- [Visual Composer]()
+- [Yoast SEO]()
+
+
+### Additional Resources (Not Necessarily WordPress Specific)
+ 
+- [Clearing Browser Cache](https://blog.hubspot.com/marketing/clear-cache-cookies-history)
