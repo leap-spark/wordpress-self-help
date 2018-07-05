@@ -3,29 +3,29 @@
 ### Beginner
 
 - [Posts](sections/posts/index.md)
-- [Pages]()
-- [Menus]()
-- [Media (images, PDFs)]()
-- [Update 'My User' Profile]()
-- [Update Site/Blog Settings]()
+- ~~[Pages]()~~
+- ~~[Menus]()~~
+- ~~[Media (images, PDFs)]()~~
+- ~~[Update 'My User' Profile]()~~
+- ~~[Update Site/Blog Settings]()~~
 
 
 ### Intermediate
 
-- [Managing Post Categories]()
-- [Managing Post Tags]()
-- [Restoring a Post/Page Revision]()
-- [Installing a Plugin]()
-- [Managing Plugins]()
-- [Setting up Two Factor Authentication]()
-- [Managing Users]()
+- ~~[Managing Post Categories]()~~
+- ~~[Managing Post Tags]()~~
+- ~~[Restoring a Post/Page Revision]()~~
+- ~~[Installing a Plugin]()~~
+- ~~[Managing Plugins]()~~
+- ~~[Setting up Two Factor Authentication]()~~
+- ~~[Managing Users]()~~
 
 
 ### Advanced
 
-- [Advanced Custom Fields]()
-- [Visual Composer]()
-- [Yoast SEO]()
+- ~~[Advanced Custom Fields]()~~
+- ~~[Visual Composer]()~~
+- ~~[Yoast SEO]()~~
 
 
 ### Additional Resources (Not Necessarily WordPress Specific)
