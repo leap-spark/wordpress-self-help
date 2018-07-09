@@ -1,6 +1,6 @@
 # Media
 
-Take note that there is typically a 32mb or less upload restriction. This can be changed but unless there is a reason during development, this may or may not be altered.
+Take note that there is typically a `32mb` or less upload restriction. This can be changed but unless there is a reason during development, this may or may not be altered.
 
 
 ## Specific Topics
