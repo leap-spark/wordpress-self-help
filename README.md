@@ -8,7 +8,7 @@
 - [Media (Images, PDFs)](sections/media/index.md)
 - [Update 'My User' Profile](sections/users/index.md#myProfile)
 - [Change My Password](sections/users/index.md#changePassword)
-- ~~[Update Site/Blog Settings]()~~
+- [Update Site/Blog Settings](sections/settings/index.md)
 
 
 ### Intermediate
