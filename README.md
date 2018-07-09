@@ -18,7 +18,7 @@
 
 - [Managing Plugins](sections/plugins/index.md)
 - [Setting up Two Factor Authentication](sections/security/index.md)
-- ~~[Managing Users]()~~
+- [Managing Users](sections/users/index.md)
 
 
 ### Advanced
