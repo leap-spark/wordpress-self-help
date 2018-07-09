@@ -9,13 +9,13 @@
 - [Update 'My User' Profile](sections/users/index.md#myProfile)
 - [Change My Password](sections/users/index.md#changePassword)
 - [Update Site/Blog Settings](sections/settings/index.md)
+- [Managing Categories](sections/categories/index.md)
+- [Managing Tags](sections/tags/index.md)
+- [Restoring a Post/Page Revision](sections/posts/index.md#revisions)
 
 
 ### Intermediate
 
-- [Managing Post Categories](sections/categories/index.md)
-- [Managing Post Tags](sections/tags/index.md)
-- [Restoring a Post/Page Revision](sections/posts/index.md#revisions)
 - [Managing Plugins](sections/plugins/index.md)
 - [Setting up Two Factor Authentication](sections/security/index.md)
 - ~~[Managing Users]()~~
