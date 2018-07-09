@@ -24,7 +24,7 @@
 ### Advanced
 
 - [Visual Composer](sections/plugins/visual-composer.md)
-- ~~[Yoast SEO]()~~
+- [Yoast SEO](sections/plugins/yoast-seo.md)
 
 
 ### Additional Resources (Not Necessarily WordPress Specific)
