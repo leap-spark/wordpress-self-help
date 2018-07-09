@@ -13,8 +13,8 @@
 
 ### Intermediate
 
-- ~~[Managing Post Categories]()~~
-- ~~[Managing Post Tags]()~~
+- [Managing Post Categories](sections/categories/index.md)
+- [Managing Post Tags](sections/tags/index.md)
 - [Restoring a Post/Page Revision](sections/posts/index.md#revisions)
 - [Managing Plugins](sections/plugins/index.md)
 - [Setting up Two Factor Authentication](sections/security/index.md)
