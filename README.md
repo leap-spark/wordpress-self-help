@@ -4,8 +4,8 @@
 
 - [Posts](sections/posts/index.md)
 - ~~[Pages]()~~
-- ~~[Menus]()~~
-- ~~[Media (images, PDFs)]()~~
+- [Menus](sections/menus/index.md)
+- [Media (Images, PDFs)](sections/media/index.md)
 - ~~[Update 'My User' Profile]()~~
 - ~~[Update Site/Blog Settings]()~~
 
