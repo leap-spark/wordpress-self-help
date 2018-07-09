@@ -23,3 +23,8 @@ You can upload a range of file types into WordPress. Basically any time of image
 1. In the WordPress dashboard go to **Media**
 2. Click on the resource you want to delete to open up its details window
 3. Click the **Delete Permanently** link at the bottom right
+
+
+### <a name="resources"></a> Resources
+
+- [WordPress Documentation - Uploading Files](https://codex.wordpress.org/Uploading_Files)
