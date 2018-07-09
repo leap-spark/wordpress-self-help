@@ -17,14 +17,13 @@
 - ~~[Restoring a Post/Page Revision]()~~
 - ~~[Installing a Plugin]()~~
 - ~~[Managing Plugins]()~~
-- ~~[Setting up Two Factor Authentication]()~~
+- [Setting up Two Factor Authentication](sections/security/index.md)
 - ~~[Managing Users]()~~
 
 
 ### Advanced
 
-- ~~[Advanced Custom Fields]()~~
-- ~~[Visual Composer]()~~
+- [Visual Composer](sections/plugins/visual-composer.md)
 - ~~[Yoast SEO]()~~
 
 
