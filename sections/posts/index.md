@@ -14,6 +14,7 @@ Posts are a generalized type of content that are designed out of the box to serv
 - [Password Protection](#passwordProtect)
 - [Changing the Author](#changeAuthor)
 - [Previewing Changes](#previewingChange)
+- [Revisions](#revisions)
 
 
 ### <a name="creatingPosts"></a> Creating Posts
@@ -109,3 +110,17 @@ It is helpful to view the changes to your post before making them live.
 To preview changes:
 1. In the **Publish** panel click the **Preview Changes** button at the top
 2. A new window will appear with your rendered post
+
+
+### <a name="revisions"></a> Revisions
+
+Revisions are a powerful way to travel back in time to restore a previous version of a page or post. Depending on the server setup, there may be months or years of revisions, or less than 10. 
+
+To access revisions:
+
+1. Edit the page or post you are wanting to access
+2. On the right side of the page in the **Publish** panel, click on the **Browse** link next to the `Revisions` label
+3. You will be shown a page that has a slider to select the revision and then a preview panel so you can see what content was added and removed
+4. Slide the slider to the left to go backwards, and to the right to go forwards in time
+5. When you slide the slider any text you see that appears in red is content that was **removed**, anything in `green` is content that was **added** in the revision
+6. If you find a revision that you want to store, keep the slider on that revision and then click the **Restore This Autosave** or **Restore This Revision**

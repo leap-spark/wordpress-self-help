@@ -15,8 +15,7 @@
 
 - ~~[Managing Post Categories]()~~
 - ~~[Managing Post Tags]()~~
-- ~~[Restoring a Post/Page Revision]()~~
-- ~~[Installing a Plugin]()~~
+- [Restoring a Post/Page Revision](sections/posts/index.md#revisions)
 - [Managing Plugins](sections/plugins/index.md)
 - [Setting up Two Factor Authentication](sections/security/index.md)
 - ~~[Managing Users]()~~
