@@ -43,8 +43,8 @@ across different sites. These types help you define what sort of content you are
 To change the type:
 
 1. Look on the right side for the panel named **Format**
-1. Choose the Format that best describes your content
-1. Click **Update**, **Preview**, or **Save Draft** to view or save your changes
+2. Choose the Format that best describes your content
+3. Click **Update**, **Preview**, or **Save Draft** to view or save your changes
 
 
 ### <a name="specifyingCategories"></a> Specifying Categories
