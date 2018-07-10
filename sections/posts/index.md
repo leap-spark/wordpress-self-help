@@ -47,7 +47,8 @@ To change the type:
 2. Choose the Format that best describes your content
 3. Click **Update**, **Preview**, or **Save Draft** to view or save your changes
 
-![Post Format](post-format.jpg)
+![Post Format](post-format.png)
+
 
 ### <a name="specifyingCategories"></a> Specifying Categories
 
