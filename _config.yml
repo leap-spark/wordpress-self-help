@@ -1,4 +1,4 @@
-remote_theme: swanson/lagom
-
 plugins:
   - jekyll-remote-theme
+
+remote_theme: leap-spark/good-clean-read
