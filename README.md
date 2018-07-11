@@ -3,7 +3,6 @@
 ### Beginner
 
 - [Posts](sections/posts/index.md)
-- ~~[Pages]()~~
 - [Menus](sections/menus/index.md)
 - [Media (Images, PDFs)](sections/media/index.md)
 - [Update 'My User' Profile](sections/users/index.md#myProfile)
