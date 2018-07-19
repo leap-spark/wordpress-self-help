@@ -3,8 +3,8 @@ Gem::Specification.new do |s|
   s.version       = '0.1.1'
   s.license       = 'CC0-1.0'
   s.authors       = ['Steve Smith', 'GitHub, Inc.']
-  s.email         = ['opensource+jekyll-theme-minimal@github.com']
-  s.homepage      = 'https://github.com/pages-themes/minimal'
+  s.email         = ['aarney@leapsparkagency.com']
+  s.homepage      = ''
   s.summary       = 'A little Wordpress help.'
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
