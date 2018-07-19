@@ -3,7 +3,7 @@ Gem::Specification.new do |s|
   s.version       = '0.0.1'
   s.license       = 'CC0-1.0'
   s.authors       = ['Nick Peay', 'Leap Spark Agency']
-  s.email         = ['npeay@leapsparkagency.com']
+  s.email         = ['aarney@leapsparkagency.com']
   s.homepage      = ''
   s.summary       = 'WordPress self-help theme for Leap Spark Agency'
 
