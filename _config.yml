@@ -1,6 +1,6 @@
-title: Minimal theme
+title: LEAP Spark | Wordpress Self Help
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: A little help with Wordpress.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+theme: leap-spark-wordpress
