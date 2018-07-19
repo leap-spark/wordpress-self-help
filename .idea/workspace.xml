@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d530530e-3a6c-4244-9b1d-5870b07b92b6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/another-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/another-page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/SUPPORT.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/SUPPORT.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/sections/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sections/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/sections/media/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sections/media/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/sections/menus/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sections/menus/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/sections/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sections/pages/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/sections/plugins/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sections/plugins/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/sections/plugins/visual-composer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sections/plugins/visual-composer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/sections/plugins/yoast-seo.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sections/plugins/yoast-seo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/sections/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sections/posts/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/sections/security/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sections/security/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/sections/settings/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sections/settings/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/sections/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sections/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/sections/users/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sections/users/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="d530530e-3a6c-4244-9b1d-5870b07b92b6" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +14,7 @@
       <file leaf-file-name="default.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="43">
+            <state relative-caret-position="114">
               <caret line="6" column="80" selection-start-line="6" selection-start-column="80" selection-end-line="6" selection-end-column="80" />
             </state>
           </provider>
@@ -122,16 +105,15 @@
       <option name="presentableId" value="Default" />
       <updated>1531930437075</updated>
       <workItem from="1531930439577" duration="4052000" />
-      <workItem from="1532007200984" duration="8230000" />
+      <workItem from="1532007200984" duration="8476000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12282000" />
+    <option name="totallyTimeSpent" value="12528000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1512" y="-85" width="1670" height="863" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23587224" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -142,7 +124,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32898173" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32898173" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.49477807" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4164491" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -299,7 +281,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
+        <state relative-caret-position="114">
           <caret line="6" column="80" selection-start-line="6" selection-start-column="80" selection-end-line="6" selection-end-column="80" />
         </state>
       </provider>
