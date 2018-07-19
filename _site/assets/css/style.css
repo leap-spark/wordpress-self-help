@@ -212,3 +212,31 @@ footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-
   .downloads { width: 99%; }
   .downloads li, .downloads li + li + li { width: 33%; } }
 @media print { body { padding: 0.4in; font-size: 12pt; color: #444; } }
+header { display: block; width: 100%; position: relative; height: inherit; }
+header img { float: left; }
+header h1 { float: right; border-bottom: none; }
+header:after { display: block; content: ''; float: none; }
+
+section { display: block; width: 100%; margin: 50px auto; position: relative; }
+
+h1 { padding: 0 30px 15px 0; border-bottom: 1px solid gold; }
+
+h2 { color: #393939; display: inline-block; margin: 0 0 20px 0; padding: 0 30px 15px 0; border-bottom: 1px solid gold; }
+
+h3 { font-style: italic; }
+
+th { color: #444; font-size: 1.17em; border-bottom: 1px solid gold; }
+
+td { border-bottom: none; padding: 10px 10px; }
+
+a { color: #777; transition: color 0.2s ease-in-out; }
+a:hover { font-weight: normal; color: gold; cursor: pointer; }
+
+ul { list-style-type: none; padding: 0; }
+ul li { padding: 4px 0; }
+
+ol li { padding: 4px 0; }
+
+hr { border: 0; background: gold; height: 1px; margin: 0 0 20px; }
+
+footer { display: block; width: 100%; position: relative; }
