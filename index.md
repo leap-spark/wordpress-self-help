@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="section" markdown="1">
+
         ## Beginner
 
         - [Posts](sections/posts)
@@ -26,7 +26,6 @@ layout: default
 
         - [Visual Composer](sections/plugins/visual-composer)
         - [Yoast SEO](sections/plugins/yoast-seo)
-</div>
 
 <div class="section" markdown="1">
 
