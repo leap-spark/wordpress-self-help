@@ -16,11 +16,13 @@
 
       <h1>WordPress Reference and Self-Help</h1>
     </header>
+
     <section>
 
       {{ content }}
 
     </section>
+   
     <footer>
       {% if site.github.is_project_page %}
       <p>This project is maintained by
@@ -29,6 +31,8 @@
       {% endif %}
     </footer>
   </div>
+
+  <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
 </body>
 
 </html>
