@@ -7,8 +7,6 @@ $gold: #f7ce1e;
 
 header {
     display: flex;
-    justify-content: center;
-    padding-top: 35px;
     width: 100%;
 
     h1 {
@@ -40,19 +38,15 @@ h3 {
     font-style: italic;
 }
 
-table {
-    margin: auto;
+th {
+    color: #444;
+    font-size: 1.17em;
+    border-bottom: 1px solid $gold;
+}
 
-    th {
-        color: #444;
-        font-size: 1.17em;
-        border-bottom: 1px solid $gold;
-    }
-
-    td {
-        border-bottom: none;
-        padding: 10px 10px;
-    }
+td {
+    border-bottom: none;
+    padding: 10px 10px;
 }
 
 a {
