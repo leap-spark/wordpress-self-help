@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="section">
-    <div class="col">
+    <div class="col" markdown="1">
         ## Beginner
 
         - [Posts](sections/posts)
@@ -17,7 +17,7 @@ layout: default
         - [Restoring a Post/Page Revision](sections/posts#revisions)
     </div>
 
-    <div class="col">
+    <div class="col" markdown="1">
         ## Intermediate
 
         - [Managing Plugins](sections/plugins)
@@ -26,7 +26,7 @@ layout: default
         - 
     </div>
 
-    <div class="col">
+    <div class="col" markdown="1">
         ## Advanced
 
         - [Visual Composer](sections/plugins/visual-composer)
@@ -34,7 +34,7 @@ layout: default
     </div>
 </div>
 
-<div class="section">
+<div class="section" markdown="1">
 
 ### Additional Resources (Not Necessarily WordPress Specific)
 
