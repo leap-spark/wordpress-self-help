@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 | Beginner                                                              | Intermediate                                                      | Advanced
 |:----------------------------------------------------------------------|:------------------------------------------------------------------|:----------------------------
 | [Posts](sections/posts/index.md)                                      | [Managing Plugins](sections/plugins/index.md)                     | [Visual Composer](sections/plugins/visual-composer.md)
