@@ -4,7 +4,7 @@ layout: default
 
 | Beginner                                                              | Intermediate                                                      | Advanced
 |:----------------------------------------------------------------------|:------------------------------------------------------------------|:----------------------------
-| [Posts](_docs/sections/posts/index.md)                                      | [Managing Plugins](sections/plugins/index.md)                     | [Visual Composer](sections/plugins/visual-composer.md)
+| [Posts](sections/posts/index.md)                                      | [Managing Plugins](sections/plugins/index.md)                     | [Visual Composer](sections/plugins/visual-composer.md)
 | [Menus](sections/menus/index.md)                                      | [Setting up Two Factor Authentication](sections/security/index.md)| [Yoast SEO](sections/plugins/yoast-seo.md)
 | [Media (Images, PDFs)](sections/media/index.md)                       | [Managing Users](sections/users/index.md)                         |
 | [Update 'My User' Profile](sections/users/index.md#myProfile)         |
