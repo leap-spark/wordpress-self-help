@@ -3,14 +3,14 @@
 
 @import "{{ site.theme }}";
 
+$gold: #f7ce1e;
+
 .wrapper {
     display: block;
     max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
 }
-
-$gold: #f7ce1e;
 
 header {
     display: flex;
@@ -48,6 +48,9 @@ h3 {
 
 table {
     margin: auto;
+    display: table;
+    width: 100%;
+    margin-bottom: 40px;
 
     th {
         color: #444;
@@ -82,6 +85,7 @@ ul {
 }
 
 ol {
+    
     li {
         padding: 4px 0;
     }
