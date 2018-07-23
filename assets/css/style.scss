@@ -3,6 +3,13 @@
 
 @import "{{ site.theme }}";
 
+.wrapper {
+    display: block;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 $gold: #f7ce1e;
 
 header {
@@ -78,6 +85,11 @@ ol {
     li {
         padding: 4px 0;
     }
+}
+
+img {
+    display: block;
+    width: 100%;
 }
 
 hr {
